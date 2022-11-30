@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: greverdy.github.io
+Token: f62afd7cce9a6440822b64b5446ec3ddbc33902d61a0956f5fce7d353b401a21
